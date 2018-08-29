@@ -1,0 +1,24 @@
+Nome: Charles Antony Richard Hoare (C.A.R Hoare - Tony Hoare)
+Nasceu: 11 de janeiro de 1934, em Colombo, Sri Lanka. 
+
+Quem é:
+
+Cientista da computação conhecido por desenvolver o algoritmo de Quicksort. Desenvolveu a Hoare Logic, um sistema formal de verificação de exatidão de programa, e Communicating Sequential Processes (CSP), uma linguagem formal para descrever processos concorrentes. 
+
+(Fez universidade em Oxford, e tinha notas ótimas. Escolheu estudar filosofia moderna, o que o ajudou a desenvolver e entender lógica)
+
+Por meio do seu estudo em Tradução de Máquina - Machine Translation (tradução de texto ou discurso de uma língua para outra) ele começou a pensar no seu algoritmo de Quicksort, sentindo a necessidade de ordenar.Hoare criou o algoritmo tentando traduzir um dicionário de inglês para russo, ordenando as palavras com o intuito de reduzir o problema.
+
+QUICKSORT
+Escolher um elemento da lista para ser o pivô
+A lista será rearranjada de forma que todos os elementos anteriores ao pivô sejam menores, e os posteriores maiores 
+
+
+Fontes:
+https://pt.wikipedia.org/wiki/Quicksort
+https://www.computerhope.com/people/charles_hoare.htm
+https://www.geeksforgeeks.org/quick-sort/
+https://www.youtube.com/watch?v=K4in_c9bMHs
+https://www.geeksforgeeks.org/quick-sort/
+https://amturing.acm.org/award_winners/hoare_4622167.cfm
+
